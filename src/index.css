@@ -168,6 +168,11 @@ input:focus {
   opacity: 0.9;
 }
 
+.active {
+  background: black;
+  color: red;
+}
+
 .btn:disabled {
   background-color: #cccccc;
   color: #333;
